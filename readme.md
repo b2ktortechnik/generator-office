@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/OfficeDev/generator-office)
+
 # Yeoman generator for Office Add-ins - YO OFFICE!
 
 [![npm version](https://badge.fury.io/js/generator-office.svg)](http://badge.fury.io/js/generator-office)
